@@ -22,7 +22,7 @@ header {
 
 .logo {
   max-width: 120px;
-  display: block;
+  display: img/logo.png;
   margin: 0 auto 10px;
 }
 
