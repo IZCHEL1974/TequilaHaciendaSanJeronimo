@@ -14,7 +14,7 @@ body {
   object-fit: cover;
 }
   background: #fff8f0;
-  color: brown; 
+  color: black; 
   line-height: 1.6;
   padding: 10px;
 }
@@ -40,7 +40,7 @@ nav ul {
 }
 
 nav ul li a {
-  color: black;
+  color: brown;
   text-decoration: none;
   font-weight: bold;
 }
