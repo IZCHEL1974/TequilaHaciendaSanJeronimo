@@ -19,11 +19,10 @@ body {
   padding: 10px;
 }
 
-header {
-  background: #8B0000;
-  color: white;
-  padding: 15px 10px;
-  text-align: center;
+encabezado {
+  background-color: #8B0000;
+  width: 100%;
+  margin: 0;
 }
 
 .logo {
